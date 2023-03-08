@@ -63,7 +63,7 @@ exports.GetArticles = (req , res) => {
 exports.GetArticleData = (req , res) => {
     const slug = req.params.slug
     ArticleModel.find({titleSlug: {$eq: slug} }).populate('reviews').exec((error, articleData) => {
-        if(error){
+        if(error || articleData.length === 0){
             res.status(404).send({Message:"error not found"});
             return;
         }
