@@ -1,0 +1,23 @@
+[
+    {
+        "articleRef": {
+            "$oid": "6402129a7d5ecc66fb0fb683"
+        },
+        "author": "Samir ali",
+        "content": "Wow, this article on outdoor photography was just what I needed to take my skills to the next level! The author's tips and tricks were incredibly helpful, and I especially loved the section on composition. As an avid hiker and nature lover, I've always been drawn to outdoor photography, but I've struggled to capture the beauty of the landscapes I encounter. Thanks to this article, I now have a better understanding of how to use natural light, frame my shots, and choose the best angles to create stunning outdoor photographs. I highly recommend this article to anyone looking to improve their outdoor photography skills!",
+        "rating": 4,
+        "createdAt": "2023-03-01T00:00:00.000Z",
+        "updatedAt": "2023-03-01T00:00:00.000Z"
+    },
+
+    {
+        "articleRef": {
+          "$oid": "6402129a7d5ecc66fb0fb689"
+        },
+        "author": "Jane Smith",
+        "content": "I found this article to be a fascinating exploration of the potential of NFTs and their implications for the future of digital ownership. The author did an excellent job of explaining the technology behind NFTs and how they are changing the way we think about digital art and other forms of media. I was particularly interested in the section on the environmental impact of NFTs, as I had never considered this aspect of the technology before. Overall, I think this is a must-read article for anyone interested in the future of digital ownership and the ways in which technology is transforming our relationship with art and media.",
+        "rating": 4,
+        "createdAt": "2023-03-01T00:00:00.000Z",
+        "updatedAt": "2023-03-01T00:00:00.000Z"
+      }
+]
